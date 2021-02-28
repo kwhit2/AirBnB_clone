@@ -11,6 +11,7 @@
     border: 1px solid #ff5a5f;
     border-radius: 4px;
     position: relative;
+    z-index: -1;
 }
 
 .places > article h2 {
